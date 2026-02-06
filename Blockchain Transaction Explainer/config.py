@@ -1,0 +1,2 @@
+ETH_RPC_URL = "https://eth-mainnet.g.alchemy.com/v2/z2QuSO5opqNPL3hyLdkWG"
+
